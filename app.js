@@ -77,6 +77,3 @@ let myData = {
  }
 }
 
-console.log(myData, "Irfan's Data")
-console.log(myData.name, "Irfan's Name")
-console.log(myData.development.programming, "programming")
