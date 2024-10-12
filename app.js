@@ -56,24 +56,5 @@ async function checkWeather(city) {
 }
 
 
-let myData = {
- name: "Muhammad Irfan",
- age: 30,
- designation: "Instructor",
- hobbies: {
-    reading: {
-        readBooks: 10,
-        favNovels: ["alchemist",]
-    },
-    playing: {
-        games: ["pubg", "cricket", "football"]
-    }
- },
- development: {
-    programming: "JavaScript",
-    stacks: {
-        topStack: "ReactJs"
-    }
- }
-}
+
 
